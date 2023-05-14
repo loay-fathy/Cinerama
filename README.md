@@ -1,2 +1,4 @@
 # Cinerama
-make sure to run the following commands before starting the project :   set NODE_OPTIONS=--openssl-legacy-provider
+make sure to run the following commands before starting the project :
+npm i
+set NODE_OPTIONS=--openssl-legacy-provider
